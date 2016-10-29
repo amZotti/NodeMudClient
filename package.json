@@ -1,0 +1,16 @@
+{
+  "name": "mudclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readable-stream": "^2.1.5",
+    "telnet-stream": "0.0.4",
+    "underscore": "^1.8.3"
+  }
+}
